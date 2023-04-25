@@ -78,3 +78,7 @@ For example, to return the top 3 closest matching recipes for ingredients 'garli
 python recipe_recommendation_system.py --N 3 --ingredient garlic --ingredient onion --ingredient potatoes
 
 
+
+https://user-images.githubusercontent.com/115323632/234424140-a2ed1f7f-29e0-40a9-97a6-1a305e1f301e.mov
+
+
