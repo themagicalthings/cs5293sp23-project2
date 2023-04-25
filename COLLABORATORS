@@ -1,0 +1,10 @@
+Acknowledgements
+
+The author would like to acknowledge and thank the following individuals for their help in understanding the concepts and clearing doubts:
+
+    jasdehart for helping in understanding the concepts
+    bhavyareddykanuganti for clearing doubts and providing support.
+    NLTK: Natural Language Processing library for text preprocessing
+    Pandas: data analysis library for reading and manipulating data stored in a JSON file
+    scikit-learn: machine learning library for building the SVM model and performing data preprocessing and feature extraction
+    Stack Overflow: community-driven Q&A platform for programming-related questions and solutions
